@@ -12,3 +12,5 @@ The button names in my code are playButton, infoButton, exitButton.
 ![image](https://user-images.githubusercontent.com/83715092/117165780-08822500-ad83-11eb-855b-78da0f4d4d1c.png)
 
 ![image](https://user-images.githubusercontent.com/83715092/117166544-b7befc00-ad83-11eb-8dea-8af98ca76375.png)
+![image](https://user-images.githubusercontent.com/83715092/117171454-1e461900-ad88-11eb-9aeb-216999f038b0.png)
+![image](https://user-images.githubusercontent.com/83715092/117171475-230acd00-ad88-11eb-997a-a616bd14dfd5.png)
