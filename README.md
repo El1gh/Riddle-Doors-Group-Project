@@ -8,3 +8,5 @@ In main code for form1 make sure to change name to mainScreen.
 
 Here is a start to the beginning screen
 The button names in my code are playButton, infoButton, exitButton.
+
+![image](https://user-images.githubusercontent.com/83715092/117165780-08822500-ad83-11eb-855b-78da0f4d4d1c.png)
