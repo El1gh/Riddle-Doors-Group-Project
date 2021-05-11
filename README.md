@@ -34,5 +34,5 @@ Doors for the firt riddle
 ![biohazard door](https://user-images.githubusercontent.com/83715092/117842151-e41ec080-b23a-11eb-9e05-38619a9f6ee7.jpg)
 ![lava door](https://user-images.githubusercontent.com/83715092/117842168-e8e37480-b23a-11eb-988c-2e3b2afbd766.jpg)
 
-in level three the lava door is safe becuase it will be a volcano that erupted a year ago
+in level three the lava door is safe becuase it will be a volcano that erupted a year ago (the green water one is acid water.)
 
