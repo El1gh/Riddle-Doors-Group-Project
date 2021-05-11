@@ -40,3 +40,4 @@ this is what i did for the win screen
 
 ![image](https://user-images.githubusercontent.com/83715092/117847878-fe0ed200-b23f-11eb-8fc9-7a9a39c19d9a.png)
 
+![image](https://user-images.githubusercontent.com/83715092/117848714-c94f4a80-b240-11eb-9eaa-68da6038ded1.png)
