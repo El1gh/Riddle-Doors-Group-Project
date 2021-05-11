@@ -36,3 +36,6 @@ Doors for the firt riddle
 
 in level three the lava door is safe becuase it will be a volcano that erupted a year ago (the green water one is acid water.)
 
+this is what i did for the win screen
+![image](https://user-images.githubusercontent.com/83715092/117847878-fe0ed200-b23f-11eb-8fc9-7a9a39c19d9a.png)
+
