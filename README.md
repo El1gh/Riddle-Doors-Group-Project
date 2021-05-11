@@ -23,3 +23,10 @@ i labeled the buttons "hotButton", "zapButton", and "poisenButton".
 ![image](https://user-images.githubusercontent.com/83715092/117826780-aa938880-b22d-11eb-9b9c-55421266fb4a.png)
 
 losing screen, buttons are labeled "tryAgainButton" and "mainScreenButton" in my code
+
+
+![fire door](https://user-images.githubusercontent.com/83714045/117831554-e7fa1500-b231-11eb-9ec8-920d70eeb17e.jpg)
+![gunman door (1)](https://user-images.githubusercontent.com/83714045/117831556-e7fa1500-b231-11eb-8afe-37ceed7abf41.png)
+![lion door](https://user-images.githubusercontent.com/83714045/117831557-e7fa1500-b231-11eb-8633-ac91ca463639.png)
+
+Doors for the firt riddle
