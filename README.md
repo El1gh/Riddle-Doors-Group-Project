@@ -17,7 +17,9 @@ The button names in my code are playButton, infoButton, exitButton.
 
 level 2 (door 3 is safe because you have to inject poison)
 ![image](https://user-images.githubusercontent.com/83715092/117172702-48e4a180-ad89-11eb-9030-4f58cb3fa715.png)
+
 i labeled the buttons "hotButton", "zapButton", and "poisenButton".
 
 ![image](https://user-images.githubusercontent.com/83715092/117826780-aa938880-b22d-11eb-9b9c-55421266fb4a.png)
+
 losing screen, buttons are labeled "tryAgainButton" and "mainScreenButton" in my code
