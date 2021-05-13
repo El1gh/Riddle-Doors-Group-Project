@@ -45,3 +45,6 @@ this is what i did for the win screen
 
 ![Zom door](https://user-images.githubusercontent.com/83714045/118138298-6508c400-b3c3-11eb-9277-32ad8d58fdb1.png)
 
+![wolf door](https://user-images.githubusercontent.com/83714045/118138690-dd6f8500-b3c3-11eb-8d30-1984a1d56122.png)
+
+
